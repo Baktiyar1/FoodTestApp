@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodTestApp</string>
+    <string name="txt_add_to_card">В корзину за %s ₽</string>
+    <string name="txt_order">Заказать за %s ₽</string>
+    <string name="txt_weight">Вес</string>
+    <string name="txt_energy_value">Энерг. ценность</string>
+    <string name="txt_proteins">Белки</string>
+    <string name="txt_fats">Жиры</string>
+    <string name="txt_carbohydrates">Углеводы</string>
+    <string name="txt_kilocalories">%s ккал</string>
+    <string name="txt_grams">%s г</string>
+    <string name="txt_rubles">%s ₽</string>
+    <string name="txt_card">Корзина</string>
+    <string name="txt_products_are_missing">Товары отсутсвуют</string>
+    <string name="txt_empty_card">Корзина пустая</string>
+    <string name="txt_search_label">Найти блюдо</string>
+    <string name="txt_search_text_empty">Введите название блюда, которое ищете</string>
+    <string name="txt_select_dishes">Подобрать блюда</string>
+    <string name="txt_done">Готово</string>
+</resources>
